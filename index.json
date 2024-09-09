@@ -1,0 +1,22 @@
+{
+  "index.html": "index.html",
+  "styles.css": "styles.css",
+  "idk.js": "idk.js",
+  "images/image1.jpg": "images/image1.jpg",
+  "images/image2.png": "images/image2.png",
+  "images/image3.gif": "images/image3.gif",
+  "scripts/script1.js": "scripts/script1.js",
+  "scripts/script2.js": "scripts/script2.js",
+  "fonts/font1.ttf": "fonts/font1.ttf",
+  "fonts/font2.otf": "fonts/font2.otf",
+  "data/data1.json": "data/data1.json",
+  "data/data2.xml": "data/data2.xml",
+  "components/component1.html": "components/component1.html",
+  "components/component2.html": "components/component2.html",
+  "pages/page1.html": "pages/page1.html",
+  "pages/page2.html": "pages/page2.html",
+  "assets/asset1.svg": "assets/asset1.svg",
+  "assets/asset2.pdf": "assets/asset2.pdf",
+  "assets/asset3.mp4": "assets/asset3.mp4",
+  "assets/asset4.mp3": "assets/asset4.mp3"
+}
