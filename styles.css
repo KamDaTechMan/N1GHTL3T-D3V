@@ -1,3 +1,5 @@
+const { getUserInfo } = require("@replit/repl-auth")
+<script src="https://replit.com/public/js/repl-auth-v2.js"></script>
 body {
   font-family: sans-serif;
   margin: 0;
@@ -46,11 +48,13 @@ li {
 }
 
 .button:hover {
+const user = getUserInfo(req)
   background-color: #3e8e41;
 }
 
 .error {
   color: red;
+<button onclick="LoginWithReplit()"> Login </button>
 }
 
 .success {
@@ -60,3 +64,4 @@ li {
 .warning {
   color: orange;
 }
+const user = getUserInfo(req)
